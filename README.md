@@ -41,7 +41,7 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 ## 📫 Connect With Me
 
-- Portfolio: [galacticvisions.vercel.app](https://galacticvisions.vercel.app](https://vivekcreateive.netlify.app/) 🌐
+- Portfolio: (https://vivekcreateive.netlify.app/) 🌐
 - LinkedIn: [linkedin.com/in/vivekdev](https://www.linkedin.com/in/vivekt21/)
 - GitHub: [github.com/vivekdev](https://github.com/Vivekkk-1)
 - Email: `vivekdubeycs1@gmail.com`
