@@ -1,16 +1,52 @@
-## Hi there 👋
+# ✨ Vivek - Full Stack Developer | Dreamer | Doer ✨
 
-<!--
-**Vivekkk-1/Vivekkk-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Code karo, create karo, conquer karo!" - Vivek
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Science student at **Nagindas Khandwala College**. I build elegant, efficient, and engaging web applications using modern tech stacks.
+
+🚀 From building AI-powered platforms like **Swasthya HMS** to bridging tech with real-world and dreaming beyond galaxies in **GalacticVisions**, I strive to turn **code into creativity**.
+
+## 🔧 Tech Stack
+
+- **Frontend**: React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js, PHP, Java
+- **Database**: MongoDB, MySQL
+- **AI/ML**: Python (Pandas, NumPy, OpenCV), OpenAI API
+- **DevOps**: XAMPP, Git & GitHub
+- **Design**: Canva, Photoshop Basics
+
+## 💡 Projects I’m Proud Of
+
+- 🔬 **Swasthya HMS**: AI-powered hospital management system with diagnostics, chat, analytics & role-based access.
+- 🩸 **Raktdaan - Blood Bank System**: A secure, smart, and AI-enhanced platform for blood donor registration, live blood availability tracking,
+  and emergency request fulfillment — ensuring no life is lost due to blood shortage.
+- 🌌 **GalacticVisions**: My portfolio built with Next.js – futuristic UI, dynamic effects, and smooth interactivity.
+- 🪞 Darpan (ongoing): Real-time emotion mirror that detects facial expressions and dynamically changes the background based on mood.
+  Happy = bright background, sad = rain animation, angry = fire animation.
+
+## 🌱 Currently Learning
+
+- DSA for tech interviews 🧠
+- Low-level System Design 🔧
+- Freelancing with Web Dev 🌍
+- AI integration in real-time apps 🤖
+
+## 🧳 My Values
+
+- 💯 Simplicity in code, depth in logic.
+- 🧭 Traditional roots, futuristic dreams.
+- 💪 Hard work, hustle, and heart.
+
+## 📫 Connect With Me
+
+- Portfolio: [galacticvisions.vercel.app](https://galacticvisions.vercel.app](https://vivekcreateive.netlify.app/) 🌐
+- LinkedIn: [linkedin.com/in/vivekdev](https://www.linkedin.com/in/vivekt21/)
+- GitHub: [github.com/vivekdev](https://github.com/Vivekkk-1)
+- Email: `vivekdubeycs1@gmail.com`
+
+---
+
+> "Main ek coder hoon, par sirf code likhne wala nahi – main har line mein kahani likhta hoon."
+
