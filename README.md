@@ -23,8 +23,8 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 - 🩸 **Raktdaan - Blood Bank System**: A secure, smart, and AI-enhanced platform for blood donor registration, live blood availability tracking,
   and emergency request fulfillment — ensuring no life is lost due to blood shortage.
 - 🌌 **GalacticVisions**: My portfolio built with Next.js – futuristic UI, dynamic effects, and smooth interactivity.
-- 🪞 Darpan (ongoing): Real-time emotion mirror that detects facial expressions and dynamically changes the background based on mood.
-  Happy = bright background, sad = rain animation, angry = fire animation.
+- 🤖 **Jarvis-AI (customized fork)**: A web-based virtual assistant inspired by Iron Man’s Jarvis —
+  built with HTML, CSS, and JavaScript. Features voice interaction, task automation, and a sleek avatar interface — your personal command center in the browser.
 
 ## 🌱 Currently Learning
 
