@@ -28,9 +28,9 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 ## 📊 GitHub Stats
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkk-1&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Vivekkk-1&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkk-1&layout=compact&theme=tokyonight)  
+- ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkk-1&show_icons=true&theme=tokyonight)
+- ![GitHub Streak](https://streak-stats.demolab.com?user=Vivekkk-1&theme=tokyonight)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkk-1&layout=compact&theme=tokyonight)  
 
 
 ## 🌱 Currently Learning
@@ -49,9 +49,9 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 ## 📫 Connect With Me
 
 - Portfolio: (https://vivekcreateive.netlify.app/) 🌐
-- LinkedIn: [linkedin.com/in/vivekdev](https://www.linkedin.com/in/vivekt21/)
-- GitHub: [github.com/vivekdev](https://github.com/Vivekkk-1)
-- Email: `vivekdubeycs1@gmail.com`
+- LinkedIn: [vivekdev](https://www.linkedin.com/in/vivekt21/)
+- GitHub: [Vivek](https://github.com/Vivekkk-1)
+- Email: `vivekdubey5960@gmail.com`
 
 ---
 
