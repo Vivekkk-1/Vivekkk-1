@@ -26,6 +26,12 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 - 🤖 **Jarvis-AI (customized fork)**: A web-based virtual assistant inspired by Iron Man’s Jarvis —
   built with HTML, CSS, and JavaScript. Features voice interaction, task automation, and a sleek avatar interface — your personal command center in the browser.
 
+## 📊 GitHub Stats
+
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkk-1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkk-1&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Vivekkk-1&theme=tokyonight)](https://git.io/streak-stats)
+
 ## 🌱 Currently Learning
 
 - DSA for tech interviews 🧠
