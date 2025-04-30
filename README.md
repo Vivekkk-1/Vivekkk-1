@@ -28,12 +28,23 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 ## 📊 GitHub Stats
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkk-1&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Vivekkk-1&theme=dark&hide_border=true&short_numbers=true&card_width=500&card_height=200)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkk-1&layout=compact&theme=tokyonight)
+<!-- GitHub Stats -->
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkk-1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Vivekkk-1&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkk-1&layout=compact&theme=tokyonight&hide=css,scss)
+
+<!-- Snake Animation -->
 ![Snake animation](https://raw.githubusercontent.com/Vivekkk-1/Vivekkk-1/main/dist/github-contribution-grid-snake.svg)
 
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vivekkk-1&theme=tokyonight&column=7&no-frame=true)
 
+<!-- GitHub Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Vivekkk-1&color=blueviolet&style=for-the-badge)
 
 ## 🌱 Currently Learning
 
