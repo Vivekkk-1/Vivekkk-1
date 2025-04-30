@@ -58,7 +58,7 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 [![Swasthya HMS](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Hospital-Management-System&theme=tokyonight)](https://github.com/Vivekkk-1/Swasthya-HMS)
 [![Raktdaan](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=BBDMS&theme=tokyonight)](https://github.com/Vivekkk-1/Raktdaan)
 [![GalacticVisions](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Galaticvisions&theme=tokyonight)](https://github.com/Vivekkk-1/GalacticVisions)
-[![Jarvis-AI](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Jarvis&theme=tokyonight)](https://github.com/Vivekkk-1/Jarvis-AI)
+[![Bone-Fracture-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Bone-Fracture-Detection&theme=tokyonight)](https://github.com/Vivekkk-1/Bone-Fracture-Detection)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=creative_portfolio&theme=tokyonight)](https://github.com/Vivekkk-1/creative_portfolio)
 
 
