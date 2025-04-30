@@ -53,6 +53,15 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 - Freelancing with Web Dev 🌍
 - AI integration in real-time apps 🤖
 
+### 🔨 Featured Projects
+
+[![Swasthya HMS](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Hospital-Management-System&theme=tokyonight)](https://github.com/Vivekkk-1/Swasthya-HMS)
+[![Raktdaan](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=BBDMS&theme=tokyonight)](https://github.com/Vivekkk-1/Raktdaan)
+[![GalacticVisions](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Galaticvisions&theme=tokyonight)](https://github.com/Vivekkk-1/GalacticVisions)
+[![Jarvis-AI](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Jarvis&theme=tokyonight)](https://github.com/Vivekkk-1/Jarvis-AI)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=creative_portfolio&theme=tokyonight)](https://github.com/Vivekkk-1/creative_portfolio)
+
+
 ## 🧳 My Values
 
 - 💯 Simplicity in code, depth in logic.
