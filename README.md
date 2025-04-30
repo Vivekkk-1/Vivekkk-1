@@ -28,22 +28,22 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
+# GitHub Stats 
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkk-1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true)
 
-<!-- GitHub Streak -->
+# GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vivekkk-1&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages -->
+# Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkk-1&layout=compact&theme=tokyonight&hide=css,scss)
 
-<!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/Vivekkk-1/Vivekkk-1/main/dist/github-contribution-grid-snake.svg)
-
-<!-- GitHub Trophies -->
+# GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vivekkk-1&theme=tokyonight&column=7&no-frame=true)
 
-<!-- GitHub Profile Views -->
+# Activity Graph
+![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivekkk-1&bg_color=0d1117&color=8e44ad&line=00bfff&point=ffffff&area=true&hide_border=true)
+
+# GitHub Profile Views 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vivekkk-1&color=blueviolet&style=for-the-badge)
 
 ## 🌱 Currently Learning
