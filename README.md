@@ -10,8 +10,8 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, PHP, Java
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP, Java, Python
 - **Database**: MongoDB, MySQL
 - **AI/ML**: Python (Pandas, NumPy, OpenCV), OpenAI API
 - **DevOps**: XAMPP, Git & GitHub
