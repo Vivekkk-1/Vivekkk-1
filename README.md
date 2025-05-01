@@ -57,8 +57,8 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 ### 🔨 Featured Projects
 
-[![Swasthya HMS](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Hospital-Management-System&theme=tokyonight)](https://github.com/Vivekkk-1/Swasthya-HMS)
-[![Raktdaan](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=BBDMS&theme=tokyonight)](https://github.com/Vivekkk-1/Raktdaan)
+[![Swasthya HMS](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Hospital-Management-System&theme=tokyonight)](https://github.com/Vivekkk-1/Hospital-Management-System)
+[![Raktdaan](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=BBDMS&theme=tokyonight)](https://github.com/Vivekkk-1/BBDMS)
 [![GalacticVisions](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Galaticvisions&theme=tokyonight)](https://github.com/Vivekkk-1/GalacticVisions)
 [![Bone-Fracture-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Bone-Fracture-Detection&theme=tokyonight)](https://github.com/Vivekkk-1/Bone-Fracture-Detection)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=creative_portfolio&theme=tokyonight)](https://github.com/Vivekkk-1/creative_portfolio)
