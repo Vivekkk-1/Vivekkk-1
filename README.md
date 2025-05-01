@@ -62,6 +62,7 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 [![GalacticVisions](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Galaticvisions&theme=tokyonight)](https://github.com/Vivekkk-1/GalacticVisions)
 [![Bone-Fracture-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Bone-Fracture-Detection&theme=tokyonight)](https://github.com/Vivekkk-1/Bone-Fracture-Detection)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=creative_portfolio&theme=tokyonight)](https://github.com/Vivekkk-1/creative_portfolio)
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=Vivekkk-1&repo=Blog&theme=tokyonight)](https://github.com/Vivekkk-1/Blog)
 
 
 ## 🧳 My Values
