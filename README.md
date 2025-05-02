@@ -29,6 +29,7 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 
 ## 📊 GitHub Stats
+![Performance](https://user-images.githubusercontent.com/2223602/192515435-a3d2c1bb-b79a-428e-92e5-f44c97a54bf7.jpg)
 
 # GitHub Stats 
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkk-1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true)
