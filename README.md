@@ -79,10 +79,11 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 ## 📫 Connect With Me
 
-- Portfolio: (https://vivekcreateive.netlify.app/) 🌐
+- Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekcsportfolio.vercel.app/)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekt21)
 - Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekkkkk_2.o)
-- GitHub: [Vivek](https://github.com/Vivekkk-1)
+- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivekkk-1)
+
 - Email: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekdubey5960@gmail.com) 
 
 ---
