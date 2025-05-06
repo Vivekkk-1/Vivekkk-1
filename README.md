@@ -37,7 +37,7 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivekkk-1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true)
 
 # GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Vivekkk-1&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vivekkk-1&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata)
 
 # Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekkk-1&layout=compact&theme=tokyonight&hide=css,scss)
