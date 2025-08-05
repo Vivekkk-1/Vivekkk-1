@@ -73,7 +73,7 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 
 ## 📫 Connect With Me
 
-- Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekcsportfolio.vercel.app/)
+- Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://vivek-navy.vercel.app/)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekt21)
 - Instagram: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivekkkkk_2.o)
 - GitHub: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivekkk-1)
