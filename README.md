@@ -45,14 +45,8 @@ Hello! I'm **Vivek**, a passionate **Full Stack Developer** and a Computer Scien
 # GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vivekkk-1&theme=tokyonight&column=7&no-frame=true)
 
-# Activity Graph
-![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivekkk-1&bg_color=0d1117&color=8e44ad&line=00bfff&point=ffffff&area=true&hide_border=true)
-
 # GitHub Profile Views 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vivekkk-1&color=blueviolet&style=for-the-badge)
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vivekkk-1&limit=4&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌱 Currently Learning
 
