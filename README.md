@@ -4,9 +4,9 @@
 
 # 👋 Hey, I'm Vivek Dubey
 
-### 📊 Aspiring Data Analyst | SQL • Excel • Power BI • Python
+### 📊 Data Analyst | SQL • Excel • Power BI • Python
 
-**From building applications to discovering insights from data.**
+**Turning data into insights, and insights into decisions.**
 
 <br>
 
@@ -25,36 +25,54 @@
 
 # 🧑‍💻 About Me
 
-Hi, I'm **Vivek**, a **B.Sc. Computer Science graduate** with a background in Full Stack Development who is currently transitioning into **Data Analytics**.
+Hi, I'm **Vivek**, a **B.Sc. Computer Science graduate** with a background in Full Stack Development, now focused on building my career in **Data Analytics**.
 
-I started my journey by building web applications and working with databases. Today, I'm focused on understanding the **story behind the data** — using SQL, Excel, Power BI and Python to clean data, analyze patterns, build meaningful metrics and generate actionable insights.
+My journey started with building web applications and working with databases. Today, I'm applying that technical foundation to data — using **SQL, Excel, Power BI and Python** to clean data, analyze patterns, build KPIs and turn raw information into meaningful business insights.
 
-> 💡 **My journey:**  
-> `Developer → Data Analyst`
-
-I believe my development background gives me an additional advantage: I understand both the **technical side of systems** and the **analytical side of data**.
+> 💡 **Developer mindset + Analytical thinking = Data-driven problem solving.**
 
 ---
 
-# 🔄 My Career Switch
+# 🔄 From Developer to Data Analyst
+
+<div align="center">
+
+### 💻 BUILD → 🧠 SOLVE → 📊 ANALYZE → 💡 INSIGHT → 🎯 IMPACT
+
+<br>
+
+| 💻 Development | 🧠 Foundation | 📊 Analytics | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| Full Stack Development | Programming & Databases | SQL • Excel • Power BI • Python | Data Analyst |
+| Web Applications | Logical Thinking | Data Analysis | Business Insights |
+| Backend Systems | Problem Solving | KPI Analysis | Data-Driven Decisions |
+
+</div>
+
+---
+
+### 🚀 My Transition
 
 ```text
-        💻 FULL STACK DEVELOPMENT
-                  │
-                  ▼
-        🗄️ DATABASE & PROGRAMMING
-                  │
-                  ▼
-        🧠 LOGICAL THINKING
-                  │
-                  ▼
-        🔍 SQL & DATA ANALYSIS
-                  │
-                  ▼
-        📊 EXCEL & POWER BI
-                  │
-                  ▼
-        🐍 PYTHON FOR ANALYTICS
-                  │
-                  ▼
-          🎯 DATA ANALYST
+💻 FULL STACK DEVELOPMENT
+          │
+          ▼
+🗄️ PROGRAMMING & DATABASES
+          │
+          ▼
+🧠 LOGICAL & PROBLEM-SOLVING SKILLS
+          │
+          ▼
+🔍 SQL & DATA ANALYSIS
+          │
+          ▼
+📊 EXCEL & POWER BI
+          │
+          ▼
+🐍 PYTHON FOR ANALYTICS
+          │
+          ▼
+💡 BUSINESS INSIGHTS
+          │
+          ▼
+🎯 DATA ANALYST
